@@ -1,0 +1,17 @@
+/* Imagem */
+#imagem {
+    border-radius: 10px;
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+/* Conteúdo */
+#conteudo {
+    font-size: 1.25rem;
+    line-height: 1.7;
+    color: #333;
+    padding-bottom: 20px;
+    text-align: justify;
+}
